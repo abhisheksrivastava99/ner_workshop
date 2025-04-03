@@ -101,9 +101,8 @@ Contributions to improve the workshop are welcome! Please feel free to submit is
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 - spaCy and NLTK communities for their excellent NLP tools
-- Financial domain experts who provided sample texts and use cases 
